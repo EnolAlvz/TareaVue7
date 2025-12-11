@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base:'https://enolalvz.github.io/tareavue7/'
+  base:'https://enolalvz.github.io/TareaVue7/'
 })
