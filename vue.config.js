@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/TareaVuee/',
+    publicPath: '/ImportarItems/',
 }
