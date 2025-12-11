@@ -10,7 +10,7 @@
     <main>
       <router-view />
     </main>
-    <footer class="app-footer">Hecho con Vue.js — Práctica DWEC</footer>
+    <footer class="app-footer">Tarea DWEC - Enol Inventario</footer>
   </div>
 </template>
 
